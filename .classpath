@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" output="target/classes" path="src/main/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" output="target/test-classes" path="src/test/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="test" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/developpement/client-combined-3.13.0.jar"/>
+	<classpathentry kind="lib" path="C:/developpement/client-combined-3.13.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Firas Guizeni/Desktop/selenium-3.9.1-nodeps.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Firas Guizeni/Desktop/selenium-3.9.1-nodeps-sources.jar"/>
+	<classpathentry kind="lib" path="C:/developpement/libs/bundle-jars.jar"/>
+	<classpathentry kind="lib" path="C:/developpement/libs/byte-buddy-1.7.9.jar"/>
+	<classpathentry kind="lib" path="C:/developpement/libs/byte-buddy-1.8.3.jar"/>
+	<classpathentry kind="lib" path="C:/developpement/libs/commons-codec-1.10.jar"/>
+	<classpathentry kind="lib" path="C:/developpement/libs/commons-exec-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/developpement/libs/commons-io-2.6.jar"/>
+	<classpathentry kind="lib" path="C:/developpement/libs/commons-lang3-3.7.jar"/>
+	<classpathentry kind="lib" path="C:/developpement/libs/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/developpement/libs/commons-net-3.6.jar"/>
+	<classpathentry kind="lib" path="C:/developpement/libs/commons-text-1.1.jar"/>
+	<classpathentry kind="lib" path="C:/developpement/libs/cssparser-0.9.24.jar"/>
+	<classpathentry kind="lib" path="C:/developpement/libs/gson-2.8.2.jar"/>
+	<classpathentry kind="lib" path="C:/developpement/libs/gson-2.8.4.jar"/>
+	<classpathentry kind="lib" path="C:/developpement/libs/guava-23.6-jre.jar"/>
+	<classpathentry kind="lib" path="C:/developpement/libs/guava-25.0-jre.jar"/>
+	<classpathentry kind="lib" path="C:/developpement/libs/htmlunit-2.29.jar"/>
+	<classpathentry kind="lib" path="C:/developpement/libs/htmlunit-core-js-2.28.jar"/>
+	<classpathentry kind="lib" path="C:/developpement/libs/htmlunit-driver-2.29.0.jar"/>
+	<classpathentry kind="lib" path="C:/developpement/libs/httpclient-4.5.3.jar"/>
+	<classpathentry kind="lib" path="C:/developpement/libs/httpclient-4.5.5.jar"/>
+	<classpathentry kind="lib" path="C:/developpement/libs/httpcore-4.4.6.jar"/>
+	<classpathentry kind="lib" path="C:/developpement/libs/httpcore-4.4.9.jar"/>
+	<classpathentry kind="lib" path="C:/developpement/libs/httpmime-4.5.3.jar"/>
+	<classpathentry kind="lib" path="C:/developpement/libs/javax.servlet-api-3.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/developpement/libs/jcip-annotations-1.0.jar"/>
+	<classpathentry kind="lib" path="C:/developpement/libs/jcommander-1.72.jar"/>
+	<classpathentry kind="lib" path="C:/developpement/libs/jetty-client-9.4.7.v20170914.jar"/>
+	<classpathentry kind="lib" path="C:/developpement/libs/jetty-http-9.4.8.v20171121.jar"/>
+	<classpathentry kind="lib" path="C:/developpement/libs/jetty-io-9.4.8.v20171121.jar"/>
+	<classpathentry kind="lib" path="C:/developpement/libs/jetty-util-9.4.8.v20171121.jar"/>
+	<classpathentry kind="lib" path="C:/developpement/libs/jetty-xml-9.4.7.v20170914.jar"/>
+	<classpathentry kind="lib" path="C:/developpement/libs/neko-htmlunit-2.28.jar"/>
+	<classpathentry kind="lib" path="C:/developpement/libs/okhttp-3.9.1.jar"/>
+	<classpathentry kind="lib" path="C:/developpement/libs/okhttp-3.10.0.jar"/>
+	<classpathentry kind="lib" path="C:/developpement/libs/okio-1.13.0.jar"/>
+	<classpathentry kind="lib" path="C:/developpement/libs/okio-1.14.1.jar"/>
+	<classpathentry kind="lib" path="C:/developpement/libs/sac-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/developpement/libs/serializer-2.7.2.jar"/>
+	<classpathentry kind="lib" path="C:/developpement/libs/snakeyaml-1.19.jar"/>
+	<classpathentry kind="lib" path="C:/developpement/libs/websocket-api-9.4.7.v20170914.jar"/>
+	<classpathentry kind="lib" path="C:/developpement/libs/websocket-client-9.4.7.v20170914.jar"/>
+	<classpathentry kind="lib" path="C:/developpement/libs/websocket-common-9.4.7.v20170914.jar"/>
+	<classpathentry kind="lib" path="C:/developpement/libs/xalan-2.7.2.jar"/>
+	<classpathentry kind="lib" path="C:/developpement/libs/xercesImpl-2.11.0.jar"/>
+	<classpathentry kind="lib" path="C:/developpement/libs/xml-apis-1.4.01.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Firas Guizeni/Downloads/junit-4.12.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jst.server.core.container/org.eclipse.jst.server.tomcat.runtimeTarget/Apache Tomcat v8.5"/>
+	<classpathentry kind="lib" path="C:/Users/Firas Guizeni/Desktop/hamcrest-core-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/developpement/selenium-server-standalone-3.13.0.jar"/>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>
