@@ -12,15 +12,15 @@ package com.journaldev.jsf.test;
 import java.util.regex.Pattern;
 import java.util.concurrent.TimeUnit;
 import org.junit.*;
-import org.omg.CORBA.PRIVATE_MEMBER;
+
 
 import static org.junit.Assert.*;
 import org.openqa.selenium.*;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.firefox.FirefoxDriver;
-import org.openqa.selenium.support.ui.ExpectedConditions;
+
 import org.openqa.selenium.support.ui.Select;
-import org.openqa.selenium.support.ui.WebDriverWait;
+
 
 import com.journaldev.jsf.beans.Login;
 
