@@ -2,7 +2,7 @@ package com.journaldev.jsf.util;
 
 import java.sql.Connection;
 import java.sql.DriverManager;
-
+import static org.junit.Assert.*;
 public class DataConnect {
 
 	public static Connection getConnection() {

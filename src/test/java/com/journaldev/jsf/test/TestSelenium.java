@@ -7,7 +7,7 @@ package com.journaldev.jsf.test;
 	
 	
 	
-	
+import static org.junit.Assert.*;	
 
 import java.util.regex.Pattern;
 import java.util.concurrent.TimeUnit;
