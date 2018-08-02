@@ -30,12 +30,16 @@ public class TestSelenium  {
 	  System.setProperty("webdriver.chrome.driver", "C:\\developpement\\chromedriver.exe");
 	  driver = new ChromeDriver();
     baseUrl = "http://localhost:8080/";
+    Dimension d = new Dimension(1382,744); 
+  //Resize the current window to the given dimension
+  driver.manage().window().setSize(d); 
     driver.manage().timeouts().implicitlyWait(30, TimeUnit.SECONDS);
   }
 
   @Test
   public void testSelenium() throws Exception {
-    driver.get(baseUrl + "/JSF_Login_Logout/faces/login.xhtml");
+    
+	  driver.get(baseUrl + "/JSF_Login_Logout/faces/login.xhtml");
     //assertEquals("login", driver.getTitle());
     driver.findElement(By.id("j_idt5:username")).clear();
     driver.findElement(By.id("j_idt5:username")).sendKeys("firas");
