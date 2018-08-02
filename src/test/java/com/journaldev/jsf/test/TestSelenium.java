@@ -48,8 +48,8 @@ public class TestSelenium  {
 	  driver.get(baseUrl + "/JSF_Login_Logout/faces/login.xhtml");
     //assertEquals("login", driver.getTitle());
 
-   driver.switchTo().defaultContent();
-	  driver.findElement(By.id("j_idt5:username")).clear();
+   driver.switchTo().defaultContent().findElement(By.id("j_idt5:username")).clear();
+	  
 	  driver.switchTo().defaultContent();
     driver.findElement(By.id("j_idt5:username")).sendKeys("firas");
     driver.switchTo().defaultContent();
